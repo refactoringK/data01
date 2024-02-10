@@ -1,11 +1,4 @@
 {
-  "user":{
-    "id": "abc123",
-    "name": "김철수",
-    "age": 22,
-    "address": "강남구 역삼동",
-    "gender": "M"
-  },
   "users":[
     {
       "id": "aaa",
@@ -39,5 +32,12 @@
       "address": "강남구 논현동",
       "gender": "F"
     }
-  ]
+  ],
+  "user":{
+    "id": "abc123",
+    "name": "김철수",
+    "age": 22,
+    "address": "강남구 역삼동",
+    "gender": "M"
+  }
 }
